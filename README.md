@@ -1,8 +1,18 @@
-# Data@ANZ Virtual Intership
-*Forage Virtual Experience*
+# ANZ-Virtual-Internship
 
-**Personal solutions for task 1 and task 2**
+This repository contains the submitted files of the various tasks assigned by Data@ANZ Virtual Internship.
 
-Task1 Exploratory Data Analysis
+**Tools**
+- Python
+- Jupyter Notebook
 
-Task2 Predictive Analytics
+**ANZ Australia Data@ANZ Virtual Internship Program
+
+Personal solutions for task 1 and task 2
+
+Task 1 Exploratory Data Analysis
+
+Task 2 Predictive Analytics
+
+*Demonstrate exploratory and predicitive data analysis skills using **Jupyter Notebook** and **Pandas**.*
+
